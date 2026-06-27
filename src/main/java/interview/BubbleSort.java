@@ -4,7 +4,7 @@ public class BubbleSort {
 
 	    void bubbleSort(int arr[])
 	    {
-	        int n = arr.length;
+	        int n = arr.length;  //https://www.youtube.com/watch?v=DjYZk8nrXVY
 	        for (int i = 0; i < n-1; i++)
 	            for (int j = 0; j < n-i-1; j++)
 	                if (arr[j] > arr[j+1])
@@ -38,7 +38,7 @@ public class BubbleSort {
 	    {
 	        BubbleSort ob = new BubbleSort();
 	        int arr[] = {64, 34, 25, 12, 22, 11, 90};
-	        ob.bubbleSort(arr);
+			ob.bubbleSort(arr);
 	       // System.out.println("Sorted array");
 	       // ob.printArray(arr);
 	    }

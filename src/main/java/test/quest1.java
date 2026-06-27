@@ -15,6 +15,8 @@ public class quest1 {
 		
 		quest1 q1=new quest1(1);
 
+		//System.gc();
+
 	}
 	
 	public void name(String ... s) {
