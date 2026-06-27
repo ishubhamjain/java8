@@ -1,6 +1,5 @@
-package Stryker;
+package Stry;
 
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class OccuranceOfWords {

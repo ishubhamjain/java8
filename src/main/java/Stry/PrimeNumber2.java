@@ -1,4 +1,4 @@
-package Stryker;
+package Stry;
 
 public class PrimeNumber2 {
     public static void main(String[] args) {

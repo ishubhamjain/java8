@@ -1,4 +1,4 @@
-package Stryker;
+package Stry;
 
 import java.util.ArrayList;
 import java.util.HashSet;

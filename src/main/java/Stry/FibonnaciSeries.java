@@ -1,4 +1,4 @@
-package Stryker;
+package Stry;
 
 public class FibonnaciSeries {
     public static void main(String[] args) {

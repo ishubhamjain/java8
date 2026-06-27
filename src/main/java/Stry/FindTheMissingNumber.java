@@ -1,6 +1,4 @@
-package Stryker;
-
-import java.util.Arrays;
+package Stry;
 
 public class FindTheMissingNumber {
     public static void main(String[] args) {
